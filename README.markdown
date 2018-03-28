@@ -10,17 +10,17 @@ A Homebridge plugin for controlling a model railroad through [JMRI](http://jmri.
 
 ## Some background on this project ##
 
-__I am not a model train guy.
+_I am not a model train guy._
 
 ### So, why do this? ###
 
 * I enjoy creating software to make things do what you would not expect possible.
 * I ran across the [Homebridge](https://github.com/nfarina/homebridge) project one day.
 * I thought it would be interesting to control a model train with Siri.
-	* __"Hey Siri, turn on my railroad."
-	* __"Hey Siri, set my railroad speed to 38%."
-	* __"Hey Siri, turn on the inside track." 
-	* and __many other fun commands.
+	* _"Hey Siri, turn on my railroad."_
+	* _"Hey Siri, set my railroad speed to 38%."_
+	* _"Hey Siri, turn on the inside track."_ 
+	* and _many_ other fun commands.
 
 ## Example Homebridge Configuration ##
 
